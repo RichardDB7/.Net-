@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Mi Nombre es Ricardo:adult: </h1>
+<h1 align="center">Hola 👋, Mi Nombre es Ricardo :mage_man: </h1>
 <h3 align="center">Esta es mi Colección de ejercicios de la carrera "Analista de Sistemas" del Instituto Raul Scalabrini Ortiz - IRSO</h3>
 
 <h4 align="left">Primer año</h4>
