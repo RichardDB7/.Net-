@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <conio.h>
+
+	int main(){
+		FILE *archivo; //Carga el dato FILE a la variable Archivo
+		char caracter; //Carga de dato char a la variable caracter
+		
+		archivo = fopen("archivodeprueba.txt", "r"); //La variable archivo es igual a fopen + el nombre del archivo + read only
+		
+		if(archivo == NULL){ //Mediante el condicional if pedimos que se devuelva el dato si existe el archivo o retrone un null en su defecto			
+			printf("Error de apertura del archivo");
+		}else{
+			printf("El contenido del archivo de prueba es:");
+			while((caracter = fgetc(archivo)) != EOF){//Mediante el ciclo while pedimos que mientras la variable caracter no sea el fin del archivo
+			printf("%c",caracter);
+		}
+		}		
+		fclose(archivo);
+		return 0;
+		
+			
+	}
