@@ -16,7 +16,7 @@
 </p>
 </h3>
 
-h3 align="left">Lenguajes y Herramientas utilizados en este repositorio:</h3>
+<h3 align="left">Lenguajes y Herramientas utilizados en este repositorio:</h3>
 <p align="left">
    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="40" height="40"/> </a> 
      <a href="https://www.oracle.com/ar/java/technologies/javase/javase-jdk8-downloads.html" target="_blank"> <img src="https://github.com/maxiluna/maxiluna/blob/main/java-logo.svg" alt="python" width="40" height="40"/> </a> 
