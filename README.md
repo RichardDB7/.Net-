@@ -3,7 +3,7 @@
 
 <h4 align="left">Primer año</h4>
 
- - 👨‍💻 [Programación I - (Lenguaje C)]
+ - 👨‍💻 <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/C">[Programación I - (Lenguaje C)]</a>
 
 <h4 align="left">Segundo año</h4>
 
