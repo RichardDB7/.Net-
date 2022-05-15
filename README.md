@@ -2,7 +2,7 @@
 <h4 align="left">Segundo año</h4>
 
 - 👨‍💻 Irso Programacion II
+- Códigos y Proyectos Realizados
 
 
-
-<h3 align="left">Buscame en: https://www.linkedin.com/in/ricardo-diaz-15186b1b8/</h3>
+<h3 align="left">Buscame en: </h3>
