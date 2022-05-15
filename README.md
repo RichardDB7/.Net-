@@ -2,7 +2,7 @@
 <h3 align="center">Esta es mi Colección de ejercicios de la carrera "Analista de Sistemas" del Instituto Raul Scalabrini Ortiz - IRSO</h3>
 
 <h4 align="left">Primer año</h4>
-- 👨‍💻 [Programación I - (Lenguaje C)]()
+- 👨‍💻 [Programación I - (Lenguaje C)](https://github.com/RichardDB7/IRSO-Programacion/tree/main/C)
 
 <h4 align="left">Segundo año</h4>
 
