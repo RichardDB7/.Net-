@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi Nombre es Ricardo :mage: </h1>
-<h3 align="center">Esta es mi Colección de ejercicios de la carrera "Analista de Sistemas" del Instituto Raul Scalabrini Ortiz - IRSO</h3>
+<h3 align="center">Esta es mi Biblioteca de ejercicios de la carrera "Técnico Superior En Análisis De Sistemas Informáticos" del Instituto Raul Scalabrini Ortiz - IRSO</h3>
 
 <h4 align="left">Primer año</h4>
 
