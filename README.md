@@ -14,6 +14,8 @@
 - 👨‍💻 <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/.NET"> Programación II (.NET & SQL)</a>
 - 👨‍💻 <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/JAVA">Integracion de programacion (JAVA & SQL)</a>
      - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/Operadores.java">[Operadores]</a>
+     - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/Sentencias.java">[Sentencias]</a>
+
 
 <h3 align="left">Buscame en: 
 <p align="left">
