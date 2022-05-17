@@ -4,7 +4,7 @@
 <h4 align="left">Primer año</h4>
 
  - 👨‍💻 <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/C">[Programación I - (Lenguaje C)]</a>
- - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/C/Expresiones%20%26%20Operadores.cpp">[Expresiones & Operadores]</a>
+ - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/C/Expresiones%20%26%20Operadores.cpp">[Expresiones & Operadores </a>
 
 
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/.NET"> Programación II (.NET & SQL)</a>
 - 👨‍💻 <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/JAVA">Integracion de programacion (JAVA & SQL)</a>
-
+       <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/Operadores.java">[Operadores]</a>
 
 <h3 align="left">Buscame en: 
 <p align="left">
