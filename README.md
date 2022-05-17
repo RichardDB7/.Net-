@@ -7,8 +7,8 @@
 
 <h4 align="left">Segundo año</h4>
 
-- 👨‍💻 Programación II (.NET & SQL)
-- Integracion de programacion (JAVA & SQL)
+- 👨‍💻 <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/.NET"> Programación II (.NET & SQL)</a>
+- 👨‍💻 <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/JAVA">Integracion de programacion (JAVA & SQL)</a>
 
 
 <h3 align="left">Buscame en: 
