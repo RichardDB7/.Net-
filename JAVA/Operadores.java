@@ -58,7 +58,7 @@ public static void main(String args[]) {
 			//Predecremento
 			var i = 2;
 			var j = --i;
-			System.out.println("i = " + i);//Increso decremento
+			System.out.println("i = " + i);//Ingreso decremento
 			System.out.println("j = " + j);
 			//Postdecremento
 			var k = 4;
