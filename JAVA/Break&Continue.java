@@ -16,11 +16,12 @@
 	
 	
 		//ETIQUETAS O LABEL CONTINUE (PROGRAMACION "GO TO"-NO RECOMENDABLE-)
-			/*inicio:
+			
+			inicio:
 			for( var contador = 0; contador < 3 ; contador++ ) {//Definimos la variable en la misma estructura iterativa ,su condicion de corte y el incremento
 			if( contador % 2 != 0) { //Si el numero es impar
 				continue inicio; //Se indica al continue ir a la siguiente iteracion
 				
 			}	
 			System.out.println("contador =" + 	contador);
-			}*/
+			}
