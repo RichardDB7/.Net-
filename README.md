@@ -19,7 +19,8 @@
      - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/CicloWhile.java">[Ciclo While]</a>
      - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/CicloDoWhile.java">[Ciclo Do While]</a>
      - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/Break%26Continue.java">[Break & Continue]</a>
-     - <a href="">----------POO---------</a>
+     - <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/JAVA/POO">----------POO----------</a>
+     - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/POO/Clases.Java">[Clases]</a>
  
 <h3 align="left">Buscame en: 
 <p align="left">
