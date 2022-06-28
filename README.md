@@ -17,7 +17,7 @@
      - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/Sentencias.java">[Sentencias]</a>
      - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/CicloFor.Java">[Ciclo For]</a>
      - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/CicloWhile.java">[Ciclo While]</a>
-     - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/CicloDoWhile.java>[Ciclo Do While]</a>
+     - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/CicloDoWhile.java">[Ciclo Do While]</a>
  
 <h3 align="left">Buscame en: 
 <p align="left">
