@@ -17,6 +17,8 @@
      - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/Sentencias.java">[Sentencias]</a>
      - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/CicloFor.Java">[Ciclo For]</a>
      - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/CicloWhile.java">[Ciclo While]</a>
+     - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/CicloDoWhile.java>[Ciclo Do While]</a>
+ 
 <h3 align="left">Buscame en: 
 <p align="left">
 <a href="https://www.linkedin.com/in/ricardo-diaz-15186b1b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxiluna" height="30" width="40" /></a>
