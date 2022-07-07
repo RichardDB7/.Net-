@@ -18,7 +18,7 @@
      - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/EjercicioIf-Else.java">[EjercicioIf-Else]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/EjercicioDoWhile.java">[EjercicioDoWhile]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/EjercicioMatriz%2BIf.java">[EjercicioMatriz+If]</a>
      
      
-- 👨‍💻 <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/JAVA/POO">----------POO----------</a>
+- 👨‍💻 <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/JAVA/POO"> ----------POO---------- </a>
      - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/POO/Clases.Java">[Clases]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/POO/Metodos.java">[Métodos]</a> 
      - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/POO/MatrizConPOO.java">[MatrizConPOO]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/POO/CalculadoraPOO.java">[CalculadoraPOO]</a>
  
