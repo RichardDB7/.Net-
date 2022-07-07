@@ -15,7 +15,7 @@
 - 👨‍💻 <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/JAVA">Integracion de programacion (JAVA & MYSQL)</a>
      - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/Operadores.java">[Operadores]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/Sentencias.java">[Sentencias]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/CicloFor.Java">[Ciclo For]</a>
      - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/CicloWhile.java">[Ciclo While]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/CicloDoWhile.java">[Ciclo Do While]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/Break%26Continue.java">[Break & Continue]</a> 
-     - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/EjercicioIf-Else.java">[EjercicioIf-Else]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/EjercicioDoWhile.java">[EjercicioIf-Else]</a>
+     - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/EjercicioIf-Else.java">[EjercicioIf-Else]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/EjercicioDoWhile.java">[EjercicioDoWhile]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/EjercicioMatriz%2BIf.java">[EjercicioMatriz+If]</a>
      
      
 - 👨‍💻 <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/JAVA/POO">----------POO----------</a>
