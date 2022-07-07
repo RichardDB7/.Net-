@@ -14,11 +14,13 @@
 - 👨‍💻 <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/.NET"> Programación II (.NET & SQL)</a>
 - 👨‍💻 <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/JAVA">Integracion de programacion (JAVA & MYSQL)</a>
      - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/Operadores.java">[Operadores]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/Sentencias.java">[Sentencias]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/CicloFor.Java">[Ciclo For]</a>
-     - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/CicloWhile.java">[Ciclo While]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/CicloDoWhile.java">[Ciclo Do While]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/Break%26Continue.java">[Break & Continue]</a>
+     - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/CicloWhile.java">[Ciclo While]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/CicloDoWhile.java">[Ciclo Do While]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/Break%26Continue.java">[Break & Continue]</a> 
+     - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/EjercicioIf-Else.java">[EjercicioIf-Else]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/EjercicioDoWhile.java">[EjercicioIf-Else]</a>
      
      
 - 👨‍💻 <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/JAVA/POO">----------POO----------</a>
      - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/POO/Clases.Java">[Clases]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/POO/Metodos.java">[Métodos]</a> 
+     - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/POO/MatrizConPOO.java">[MatrizConPOO]</a>
  
 <h3 align="left">Buscame en: 
 <p align="left">
