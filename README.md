@@ -20,7 +20,7 @@
      
 - 👨‍💻 <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/JAVA/POO">----------POO----------</a>
      - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/POO/Clases.Java">[Clases]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/POO/Metodos.java">[Métodos]</a> 
-     - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/POO/MatrizConPOO.java">[MatrizConPOO]</a>
+     - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/POO/MatrizConPOO.java">[MatrizConPOO]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/JAVA/POO/CalculadoraPOO.java">[CalculadoraPOO]</a>
  
 <h3 align="left">Buscame en: 
 <p align="left">
