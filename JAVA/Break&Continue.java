@@ -15,7 +15,7 @@
 			}
 	
 	
-		//ETIQUETAS O LABEL CONTINUE (PROGRAMACION "GO TO"-NO RECOMENDABLE-)
+		//ETIQUETAS O LABEL CONTINUE (PROGRAMACION "GO TO" *NO RECOMENDABLE*)
 			
 			inicio:
 			for( var contador = 0; contador < 3 ; contador++ ) {//Definimos la variable en la misma estructura iterativa ,su condicion de corte y el incremento
